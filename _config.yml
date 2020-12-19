@@ -1,1 +1,3 @@
 name: Moony, Wormtail, Padfoot, and Prongs
+sass:
+  sass_dir: assets
