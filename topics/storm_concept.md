@@ -1,10 +1,13 @@
 ---
 layout: template
+title: Everything you wanted to know about storms
 ---
 
-# What is a storm
+# {{ page.title }}
 
 A storm is any disturbed state of an environment. It causes significant disruptions to normal conditions by means of strong wind, tornadoes, hail, thunderstorm, snowstorm, rainstorm, heavy freezing rain, dust storm, blizzard, or sandstorm.
+
+Repeat the variable {{ page.title }}
 
 Storms harm lives and property. They cause dust devils and whirlwinds.
 
