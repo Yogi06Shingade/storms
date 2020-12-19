@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # What is a storm
 
 A storm is any disturbed state of an environment. It causes significant disruptions to normal conditions by means of strong wind, tornadoes, hail, thunderstorm, snowstorm, rainstorm, heavy freezing rain, dust storm, blizzard, or sandstorm.

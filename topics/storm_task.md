@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # How to storm a castle
 
 When you think, "My army is provided with abundance of staple corn, raw materials, machines, weapons, dress, labourers, ropes and the like, and has a favourable season to act, whereas my enemy has an unfavourable season and is suffering from disease, famine and loss of stores and defensive force, while their hired troops as well as the army of their freidnly neighbour are in a miserable condition", then may you begin the siege.

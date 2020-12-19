@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Storms
 
 Everything about storms

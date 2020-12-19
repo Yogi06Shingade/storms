@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Severe storms in history
 
 ## Dust storms
