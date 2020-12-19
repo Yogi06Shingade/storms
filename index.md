@@ -1,9 +1,4 @@
----
-layout: template
-title: An investigation into storms
----
-
-# {{ page.title }}
+# Storms
 
 Everything about storms
 

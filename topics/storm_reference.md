@@ -1,7 +1,3 @@
----
-layout: template - Copy
----
-
 # Severe storms in history
 
 {% for item in site.data.countries %}
