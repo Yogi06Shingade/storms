@@ -4,22 +4,15 @@ layout: template
 
 # Severe storms in history
 
+{% for item in site.data.countries %}
+The country of {{ item.name }} was created in {{ item.date }}. Its flag is {{ item.flag }}.
+
 ## Dust storms table
 
 | Date | Place | Storm name |
 | --- | --- | --- |
 |April 14, 1935|Texas Panhandle to the Oklahoma Panhandle, United States| Black Sunday|
 |December 19-21, 1977||Great Bakersfield Dust Storm|
-
-## Dust storms list
-
-<ul>
-{% for storm in site.data.storms %}
-   <li>
-   {{ storm.name }}: On {{ storm.date }} at {{ storm.place }}
-   </li>
-{% endfor %}
-</ul>
 
 ## See also
 
