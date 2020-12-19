@@ -1,10 +1,6 @@
 # Severe storms in history
 
-{% for item in site.data.countries %}
-The country of {{ item.name }} was created in {{ item.date }}. Its flag is {{ item.flag }}.
-{% endfor %}
-
-## Dust storms table
+## Dust storms
 
 | Date | Place | Storm name |
 | --- | --- | --- |
