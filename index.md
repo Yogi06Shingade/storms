@@ -3,7 +3,7 @@ layout: template
 title: An investigation into storms
 ---
 
-# {{ page.title }}
+# {{ title }}
 
 Everything about storms
 
