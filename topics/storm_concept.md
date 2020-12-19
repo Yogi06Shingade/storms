@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: template
 ---
 
 # What is a storm

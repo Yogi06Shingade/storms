@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: template
 ---
 
 # How to storm a castle

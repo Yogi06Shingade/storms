@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: template
 ---
 
 # Severe storms in history
