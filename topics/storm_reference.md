@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: template - Copy
 ---
 
 # Severe storms in history
